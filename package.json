@@ -13,6 +13,7 @@
   "author": "ravi",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.13.4"
+    "express": "^4.13.4",
+    "start": "^4.0.1"
   }
 }
